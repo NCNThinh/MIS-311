@@ -16,14 +16,15 @@ This project performs an Exploratory Data Analysis (EDA) on global tourism arriv
 
 ## 📊 Key Findings & Insights
 
-### Insight 2: Global Tourism Trend and Post-Pandemic Stabilization
+### Insight 1: Global Tourism Trend and Post-Pandemic Stabilization
 ![Global Tourism Trend](global_tourism_trend.png)
 
 > The descriptive statistics show a massive surge in global international tourist arrivals between 2022 and 2023, jumping from roughly 530 million to over 650 million arrivals. Following this aggressive recovery period, the predictive data for 2024 shows a plateauing trend, with volume remaining relatively flat compared to the previous year. For business analytics and market forecasting, this indicates that the post-pandemic travel boom has officially normalized, shifting the market into a stable, highly predictable baseline for operational planning.****
+> <img width="752" height="449" alt="image" src="https://github.com/user-attachments/assets/a3a25b15-3c77-4bce-b6ea-54c98ff17e60" />
 
 ---
 
-### Insight 1: Market Concentration in Global Travel Destinations
+### Insight 2: Market Concentration in Global Travel Destinations
 ![Top 10 Countries](top_10_countries.png)
 
 > The descriptive statistics reveal a heavy concentration of global tourism demand within a few elite destinations, with France leading the global market at 100 million international arrivals in 2023, closely followed by Spain at approximately 85 million. European nations heavily dominate the top ten tier, capturing six out of the ten spots and proving that Western and Mediterranean Europe remain the primary epicenters for international travel infrastructure. For business analysts in the hospitality, aviation, and retail sectors, this highlights specific high-density geographic markets where resource allocation and expansion campaigns yield the most reliable commercial returns.
