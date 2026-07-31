@@ -28,3 +28,4 @@ This project performs an Exploratory Data Analysis (EDA) on global tourism arriv
 ![Top 10 Countries](top_10_countries.png)
 
 > The descriptive statistics reveal a heavy concentration of global tourism demand within a few elite destinations, with France leading the global market at 100 million international arrivals in 2023, closely followed by Spain at approximately 85 million. European nations heavily dominate the top ten tier, capturing six out of the ten spots and proving that Western and Mediterranean Europe remain the primary epicenters for international travel infrastructure. For business analysts in the hospitality, aviation, and retail sectors, this highlights specific high-density geographic markets where resource allocation and expansion campaigns yield the most reliable commercial returns.
+<img width="1140" height="600" alt="image" src="https://github.com/user-attachments/assets/ba77ce13-71ef-45d6-804b-c231b6e28fd6" />
